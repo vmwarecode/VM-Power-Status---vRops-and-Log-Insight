@@ -1,0 +1,1 @@
+# VM-Power-Status---vRops-and-Log-Insight
